@@ -1,2 +1,2 @@
 # my_demo
-simple demo
+Just some demos.
